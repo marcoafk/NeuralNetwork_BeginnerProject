@@ -1,10 +1,10 @@
-[ ] implement multiple hidden layers
+[x] implement multiple hidden layers
 ---- code changes ----
     [x] __init__ 
     [x] init_parameters
-    [ ] forward propagation
-    [ ] back propagation
-    [ ] gradient_descent
-    [ ] update_params
-    [ ] *new function abstracted in gradient_descent
+    [x] forward propagation
+    [x] back propagation
+    [x] gradient_descent
+    [x update_params
+    [x] *new function abstracted in gradient_descent
 ---- run tests ----
